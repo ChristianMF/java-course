@@ -1,0 +1,11 @@
+test/TestMySqlJDBC.class
+datos/Conexion.class
+test/TestManejoUsuario.class
+domain/UsuarioDTO.class
+datos/PersonaDAOJDBC.class
+test/TestManejoPersonas.class
+datos/UsuarioDAOJDBC.class
+datos/PersonaDAO.class
+domain/PersonaDTO.class
+.netbeans_automatic_build
+datos/UsuarioDAO.class

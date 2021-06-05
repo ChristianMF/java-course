@@ -1,0 +1,4 @@
+datos/Conexion.class
+test/TestManejoUsuario.class
+domain/Usuario.class
+datos/UsuarioDAO.class
